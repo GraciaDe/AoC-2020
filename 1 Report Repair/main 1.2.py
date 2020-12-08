@@ -1,4 +1,4 @@
-report = open(r"/1.1 Report Repair/Expense Report", "r")
+report = open(r"/1 Report Repair/Expense Report", "r")
 
 def trio_product_2020(entries):
     # Makes entries into a list of integers

@@ -1,5 +1,5 @@
 import re
-pass_file = open(r"D:\Users\grace\PycharmProjects\aoc\2.1 Password Philosophy\test", "r")
+pass_file = open(r"D:\Users\grace\PycharmProjects\aoc\2 Password Philosophy\test", "r")
 
 pass_list = [entry.replace("\n", "") for entry in pass_file.readlines()]
 
